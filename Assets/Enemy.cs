@@ -9,7 +9,6 @@ public class Enemy
 	{
 		health -= amount;
 	}
-
 }
 
 Enemy goblin = new Enemy();
